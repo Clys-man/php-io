@@ -1,0 +1,2 @@
+fwrite — Binary-safe file write
+fwrite — Binary-safe file write
